@@ -5,6 +5,7 @@
 * Example: Morse code is a very popular form of encoded message.  This changes words into a series of dots and dashes.  
 	Regular Message: “Hello There”
 	Morse code:”....   .   .-..   .-..   ---       -   ....   .   .-.   .”
+	</br>
   Ref: http://en.wikipedia.org/wiki/Morse_code
   
 * This JavaFX program has a key value pair using the cipher. It reads through the text field and creates the encrypted text according to the cipher.  
